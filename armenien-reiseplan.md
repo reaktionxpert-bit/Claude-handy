@@ -71,7 +71,8 @@
 | | |
 |---|---|
 | 02:45 | Aufstehen |
-| 03:15 | Taxi zum Flughafen |
+| 03:15 | Mit dem Auto zum Flughafen |
+| 03:35 | Mietwagen-Rückgabe |
 | 05:35 | Abflug |
 | 07:25 | Wien |
 
