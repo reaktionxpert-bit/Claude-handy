@@ -38,7 +38,9 @@
 | 13:30 | Fahrt nach Jerewan |
 | 15:00 | Hotel |
 | 16:00 | **Zizernakaberd** |
-| 18:00 | **Kaskade + Skulpturenpark** |
+| 17:30 | **Kaskade + Skulpturenpark** |
+| 18:15 | **Mutter Armenien / Siegespark** |
+| 19:15 | zurück über die Kaskade |
 | 20:00 | Abendessen |
 | 21:00 | **Platz der Republik, singende Fontänen** |
 | ab 22:00 | Fortgehen |
@@ -87,7 +89,6 @@
 | Katoghike-Kirche | Sa Nachmittag |
 | Kond | Sa Nachmittag |
 | Oper + Nordallee | Fr abends · Sa Nachmittag |
-| Mutter Armenien / Siegespark | Fr nach der Kaskade |
 | Ararat Brandy-Fabrik | Fr Nachmittag · Sa Nachmittag, vorher buchen |
 | Vernissage + GUM-Markt | nur Sa vormittags |
 | Etschmiadsin + Zwartnoz | Fr Nachmittag statt Zizernakaberd |
