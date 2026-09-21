@@ -80,8 +80,21 @@
 
 ## Optional, falls Zeit
 
-| Ort | Passt am besten |
+**Zum Tauschen**
+
+| | |
 |---|---|
+| Etschmiadsin + Zwartnoz | Fr statt Zizernakaberd |
+| Matenadaran | Fr statt Zizernakaberd |
+| Noratus + Hayravank | Fr statt Dilidschan |
+| Goschawank | Fr, Abstecher ab Dilidschan |
+| Vernissage + GUM-Markt | Sa früher los, Chor Virap später |
+
+**Samstag ab 17:15**
+
+Oper + Nordallee · GUM-Markt · Kathedrale Surp Grigor Lusavorich · Blaue Moschee (bis 18:00)
+
+---|---|
 | Matenadaran | Fr Nachmittag · Sa Nachmittag |
 | Parajanov-Museum | Fr Nachmittag · Sa Nachmittag |
 | Blaue Moschee | Sa Nachmittag |
