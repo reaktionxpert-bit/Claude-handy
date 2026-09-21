@@ -2,8 +2,8 @@
 
 | | Flug | Ab | An |
 |---|---|---|---|
-| **Mi 14.10.** | Wien → Jerewan | 23:15 | 04:35 (Do) |
-| **So 18.10.** | Jerewan → Wien | 05:35 | 07:25 |
+| **Mi 14.10.** | Wien → Jerewan | 22:35 | 03:55 (Do) |
+| **So 18.10.** | Jerewan → Wien | 04:45 | 06:30 |
 
 ---
 
@@ -11,8 +11,8 @@
 
 | | |
 |---|---|
-| 04:35 | Landung, Mietwagen |
-| 05:15 | Hotel Jerewan, schlafen |
+| 03:55 | Landung, Mietwagen |
+| 04:40 | Hotel Jerewan, schlafen |
 | 09:30 | Abfahrt |
 | 10:15 | **Garni-Tempel** |
 | 11:15 | **Symphonie der Steine** |
@@ -61,6 +61,7 @@
 | 15:15 | Rückfahrt |
 | 17:15 | Jerewan, freier Nachmittag |
 | 19:00 | Abendessen, packen |
+| 21:00 | schlafen |
 
 → **Nacht in Jerewan**
 
@@ -70,11 +71,11 @@
 
 | | |
 |---|---|
-| 02:45 | Aufstehen |
-| 03:15 | Mit dem Auto zum Flughafen |
-| 03:35 | Mietwagen-Rückgabe |
-| 05:35 | Abflug |
-| 07:25 | Wien |
+| 01:45 | Aufstehen |
+| 02:15 | Mit dem Auto zum Flughafen |
+| 02:40 | Mietwagen-Rückgabe |
+| 04:45 | Abflug |
+| 06:30 | Wien |
 
 ---
 
@@ -94,6 +95,3 @@
 
 Oper + Nordallee · GUM-Markt · Kathedrale Surp Grigor Lusavorich · Blaue Moschee (bis 18:00)
 
----
-
-*Flugzeiten sind das übliche AUA-Nachtflugmuster, nicht live geprüft — bitte gegen die Buchung abgleichen.*
