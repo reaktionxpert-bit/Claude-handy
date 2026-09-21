@@ -94,22 +94,6 @@
 
 Oper + Nordallee · GUM-Markt · Kathedrale Surp Grigor Lusavorich · Blaue Moschee (bis 18:00)
 
----|---|
-| Matenadaran | Fr Nachmittag · Sa Nachmittag |
-| Parajanov-Museum | Fr Nachmittag · Sa Nachmittag |
-| Blaue Moschee | Sa Nachmittag |
-| Geschichtsmuseum Armeniens | Sa Nachmittag |
-| Kathedrale Surp Grigor Lusavorich | Sa Nachmittag |
-| Katoghike-Kirche | Sa Nachmittag |
-| Kond | Sa Nachmittag |
-| Oper + Nordallee | Fr abends · Sa Nachmittag |
-| Ararat Brandy-Fabrik | Fr Nachmittag · Sa Nachmittag, vorher buchen |
-| Vernissage + GUM-Markt | nur Sa vormittags |
-| Etschmiadsin + Zwartnoz | Fr Nachmittag statt Zizernakaberd |
-| Noratus + Hayravank | Fr vormittags statt Dilidschan |
-| Zaghkadsor + Kloster Ketscharis | Fr auf der Rückfahrt |
-| Goschawank | Fr, Abstecher ab Dilidschan |
-
 ---
 
 *Flugzeiten sind das übliche AUA-Nachtflugmuster, nicht live geprüft — bitte gegen die Buchung abgleichen.*
