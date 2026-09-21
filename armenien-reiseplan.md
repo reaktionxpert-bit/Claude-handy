@@ -27,18 +27,18 @@
 
 ---
 
-## Fr 16.10. — Sewan, Jerewan, fortgehen
+## Fr 16.10. — Dilidschan, Jerewan, fortgehen
 
 | | |
 |---|---|
 | 09:00 | Frühstück |
-| 10:00 | **Hayravank** |
-| 10:45 | **Noratus** |
-| 13:00 | Fahrt nach Jerewan |
-| 14:30 | Hotel, Mittagessen |
+| 10:00 | Abfahrt |
+| 10:45 | **Kloster Haghartsin** |
+| 12:00 | **Dilidschan Altstadt**, Mittagessen |
+| 13:30 | Fahrt nach Jerewan |
+| 15:00 | Hotel |
 | 16:00 | **Zizernakaberd** |
-| 17:45 | **Mutter Armenien / Siegespark** |
-| 18:30 | **Kaskade + Skulpturenpark** |
+| 18:00 | **Kaskade + Skulpturenpark** |
 | 20:00 | Abendessen |
 | 21:00 | **Platz der Republik, singende Fontänen** |
 | ab 22:00 | Fortgehen |
@@ -51,15 +51,14 @@
 
 | | |
 |---|---|
-| 09:30 | **GUM-Markt + Vernissage** |
-| 10:45 | Abfahrt |
-| 11:35 | **Chor Virap** (Ararat) |
-| 12:45 | Fahrt |
-| 14:00 | **Kloster Noravank** |
-| 15:15 | Mittagessen |
-| 16:15 | Rückfahrt |
-| 18:15 | Jerewan |
-| 19:30 | Abendessen, packen |
+| 09:30 | Abfahrt |
+| 10:20 | **Chor Virap** (Ararat) |
+| 11:45 | Fahrt |
+| 13:00 | **Kloster Noravank** |
+| 14:15 | Mittagessen Areni |
+| 15:15 | Rückfahrt |
+| 17:15 | Jerewan, freier Nachmittag |
+| 19:00 | Abendessen, packen |
 
 → **Nacht in Jerewan**
 
@@ -76,9 +75,25 @@
 
 ---
 
-## Optional / zum Tauschen
+## Optional, falls Zeit
 
-Matenadaran · Etschmiadsin + Zwartnoz · Parajanov-Museum · Ararat Brandy-Fabrik · Blaue Moschee · Geschichtsmuseum · Kathedrale Surp Grigor Lusavorich · Katoghike · Kond · Oper + Nordallee · Dilidschan + Haghartsin
+| Ort | Passt am besten |
+|---|---|
+| Matenadaran | Fr Nachmittag · Sa Nachmittag |
+| Parajanov-Museum | Fr Nachmittag · Sa Nachmittag |
+| Blaue Moschee | Sa Nachmittag |
+| Geschichtsmuseum Armeniens | Sa Nachmittag |
+| Kathedrale Surp Grigor Lusavorich | Sa Nachmittag |
+| Katoghike-Kirche | Sa Nachmittag |
+| Kond | Sa Nachmittag |
+| Oper + Nordallee | Fr abends · Sa Nachmittag |
+| Mutter Armenien / Siegespark | Fr nach der Kaskade |
+| Ararat Brandy-Fabrik | Fr Nachmittag · Sa Nachmittag, vorher buchen |
+| Vernissage + GUM-Markt | nur Sa vormittags |
+| Etschmiadsin + Zwartnoz | Fr Nachmittag statt Zizernakaberd |
+| Noratus + Hayravank | Fr vormittags statt Dilidschan |
+| Zaghkadsor + Kloster Ketscharis | Fr auf der Rückfahrt |
+| Goschawank | Fr, Abstecher ab Dilidschan |
 
 ---
 
