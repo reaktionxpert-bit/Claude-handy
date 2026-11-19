@@ -163,29 +163,66 @@ Für neu gegründete Shopify- und E-Commerce-Agenturen, die schnell eine überze
 
 ---
 
-## 10. Noch offen
+## 10. Wie Shopify-Agentur-Websites aufgebaut sind
 
-- **Recherche zu Agentur-Websites:** Sehen Shopify-Agentur-Seiten alle ähnlich aus? Welche Seiten, Abschnitte, Vertrauenselemente, Handlungsaufforderungen? Ergebnis landet (falls fertig) in `research_notes/Businessplan Agentur Website Builder/agentur_websites_muster.md`. Daraus ergeben sich die konkreten ersten Bausteine.
+**Ergebnis: Ja, sie sind im Aufbau stark standardisiert.** Unterschiede gibt es bei Positionierung, Belegen und Tonfall, kaum beim Layout. Grundlage: 52 Startseiten live ausgewertet (27 Shopify-Agenturen aus DACH, 8 internationale, 17 Generalisten zum Vergleich). Details: `research_notes/Businessplan Agentur Website Builder/agentur_websites_muster.md`.
+
+**Häufigkeit bei 27 Shopify-Agenturen aus DACH** (grobe Größenordnung):
+
+| Element | Anteil |
+|---|---|
+| „Shopify“ in Überschrift/Titel | 89 % |
+| Case Studies auf der Startseite | 85 % |
+| Team | 81 % |
+| Partner-Status | 78 % |
+| Logo-Leiste „Marken vertrauen uns“ | 78 % |
+| Migration | 70 % |
+| Prozess | 70 % |
+| CTA „Erstgespräch“ | 67 % |
+| Bewertungsplattform | 67 % |
+| Betreuung/Retainer | 59 % |
+| Testimonials | 56 % |
+| FAQ | 52 % |
+| Shopify-Plus-Seite | 52 % |
+| Gratis-Audit/-Check | 48 % |
+| %-Kennzahlen in Cases | 44 % |
+
+**Typische Reihenfolge der Startseite:** Hero mit Shopify-Claim, Badge und CTA → Logo-Leiste → 3–4 Leistungskarten → Case-Teaser mit Kennzahl → USPs → Prozess (3–5 Schritte) → Testimonials/Bewertungen → Team → FAQ → Abschluss-CTA Erstgespräch.
+
+**Typische Unterseiten:** Leistungen, Shopify Plus, B2B, eine Migrationsseite pro System (Shopware, WooCommerce, Magento, JTL …), Case-Übersicht und Case-Detail (Ausgangslage → Herausforderung → Lösung → Ergebnis), Branchenseiten, Stadtseiten („Shopify Agentur [Stadt]“), Über uns, Karriere, Preise, Blog.
+
+**Was die Besten anders machen:** klare Nische (Migration, CRO, Branche), Belege mit Marke + Kennzahl + Zeitraum („von 9 auf 34,7 Mio. € in 12 Monaten“), Haltung („Kein Schnickschnack, kein Ghosting“), persönlicher CTA („30 Minuten mit Robert buchen“).
+
+**Was das für Fokuspage heißt:**
+- Der Vorteil gegenüber Framer/Webflow-Vorlagen sind die **Shopify-Inhalte**: Partner-Badge, Migrationsseiten je System, Case-Felder mit E-Commerce-Kennzahlen, FAQ, Branchen- und Stadtseiten.
+- **Gefahr:** Feste Standardtexte machen die Seiten noch gleichförmiger. Agenturen halten sich zu 80 % für einzigartig, die Branche aber zu 75 % für austauschbar. Deshalb: Pflicht-Fragebogen zur Positionierung, aus dem die Überschriften entstehen, Textvarianten, Prüfung auf Platzhalter vor dem Veröffentlichen.
+- **Für Neugründer ohne Referenzen:** Belegblöcke, die ohne Kunden funktionieren (Gründerprofil mit Erfahrung, Gratis-Audit, transparente Preise).
+- **Risiko:** 8 von 27 Agenturen betreiben ihre Website als eigenen Shopify-Store. Für sie liegt ein externer Builder weniger nahe. Die Zielgruppe sind eher Neugründer ohne Zeit oder Design-Kapazität → in Gesprächen prüfen.
+
+## 11. Noch offen
+
 - **Einseitiger Businessplan als Artifact** mit Grafiken: Markttrichter, Wettbewerbskarte, Annahmen-Matrix, 90-Tage-Fahrplan mit Abbruchpunkten. Noch nicht erstellt.
 - Markenprüfung „Fokuspage“.
 - Steuerberater: Regelbesteuerung, 5-Jahres-Bindung, Auslandsumsätze, Vorbereitung vor 1.1.
 - Klickpreise und Suchvolumen für konkrete Keywords im Google Keyword-Planer prüfen; Größe der Zielgruppe im Meta-/LinkedIn-Werbemanager prüfen.
 
-### Vorläufige Liste der ersten 10 Bausteine
-1. Hero mit Positionierung
-2. Leistungen
-3. Case Study mit KPIs (Umsatz, Conversion Rate)
-4. Shopify-Partner-Badge (neue Stufen ab 2027)
-5. App- und Tech-Stack
-6. Prozess
-7. Preise / Retainer
-8. Team
-9. FAQ
-10. Kontakt mit Shop-Audit-Formular als Leadmagnet
+### Erste 10 Bausteine (aus der Auswertung abgeleitet)
+1. Hero mit Shopify-Positionierung, Partner-Badge und CTA (neue Stufen ab 2027)
+2. Logo-Leiste „Marken vertrauen uns“ (mit Variante ohne Referenzen für Neugründer)
+3. Leistungskarten (3–4)
+4. Case Study mit E-Commerce-Kennzahlen (Umsatz, Conversion Rate, Zeitraum)
+5. USPs / „Wir vs. typische Agentur“
+6. Prozess in 3–5 Schritten
+7. Testimonials / Bewertungen
+8. Team bzw. Gründerprofil
+9. FAQ (inkl. „Wann sind wir nicht die richtige Agentur?“)
+10. Abschluss-CTA Erstgespräch + Shop-Audit-Formular
+
+**Erste Seitenvorlagen:** Startseite, Leistung, Migration (je System), Case-Detail, Über uns, Kontakt.
 
 ---
 
-## 11. Methode für den einseitigen Businessplan
+## 12. Methode für den einseitigen Businessplan
 
 - **Format:** Mischung aus Lean Canvas (Ash Maurya) und den Fragen von YC/Sequoia.
 - **Die 10 wichtigsten Fragen, in dieser Reihenfolge:**
@@ -204,12 +241,12 @@ Für neu gegründete Shopify- und E-Commerce-Agenturen, die schnell eine überze
 
 ---
 
-## 12. Dateien
+## 13. Dateien
 
 - `research_notes/Baukasten für Shopify Agenturen/` – Wettbewerb, Agentur-Builder, Marktgröße, Pain Points
 - `research_notes/KI Website Migration Anbieter/` – KI-Umzugs-Tools, Umzugsdienste und Preise
-- `research_notes/Businessplan Agentur Website Builder/` – neue Agenturen, Preisanalyse, Anzeigen, Kosten/Hosting/Recht, One-Page-Methode, (Agentur-Website-Muster)
+- `research_notes/Businessplan Agentur Website Builder/` – neue Agenturen, Preisanalyse, Anzeigen, Kosten/Hosting/Recht, One-Page-Methode, Agentur-Website-Muster
 
-## 13. Prompt für den neuen Chat
+## 14. Prompt für den neuen Chat
 
 > Lies `Fokuspage-Zusammenfassung.md` und die Notizen in `research_notes/`. Wir machen weiter mit der Analyse (nichts bauen). Nächster Schritt: einseitiger Businessplan für Fokuspage als Web-Seite mit Grafiken (Markttrichter, Wettbewerbskarte, Annahmen-Matrix, Fahrplan mit Abbruchpunkten), in so einfacher Sprache, dass ich ihn meiner Mutter erklären kann. Sei kritisch.
